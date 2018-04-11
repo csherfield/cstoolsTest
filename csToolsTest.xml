@@ -1,0 +1,6 @@
+<testsuites>
+	<testsuite name="AllTests" tests="2">
+		<testcase classname="AllTests" name="matrixEqualityTest"/>
+		<testcase classname="AllTests" name="matrixInequalityTest"/>
+	</testsuite>
+</testsuites>
